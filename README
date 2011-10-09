@@ -1,0 +1,6 @@
+A wrapper for Google's Places API.
+
+See: http://code.google.com/apis/maps/documentation/places/
+
+Based on python-googlegeocoder by The Los Angeles Times Data Desk / Ben Welsh
+https://github.com/datadesk/python-googlegeocoder
